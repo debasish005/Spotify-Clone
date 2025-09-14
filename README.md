@@ -1,2 +1,2 @@
 # Spotify-Clone
-This is a Clone of Spotify
+This is a Clone of Amazon
